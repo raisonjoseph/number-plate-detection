@@ -5,7 +5,9 @@
 ## Steps
 
 > Install NodeJs and open cmd on from the folder
-> npm install or npm i
-> npm start to stat server
+
+> `npm install` or `npm i`
+
+> `npm start` to stat server
 
 
