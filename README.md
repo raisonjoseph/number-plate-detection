@@ -8,6 +8,6 @@
 
 > `npm install` or `npm i`
 
-> `npm start` to stat server
+> `npm start` to start server
 
 
